@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "microbit remote control",
     "description": "",
     "dependencies": {
         "core": "*",
